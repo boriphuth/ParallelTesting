@@ -1,0 +1,10 @@
+C:\Users\Shayan\Documents\Visual Studio 2015\Projects\myBrowserstack\parallel\parallel\bin\Debug\parallel.dll
+C:\Users\Shayan\Documents\Visual Studio 2015\Projects\myBrowserstack\parallel\parallel\bin\Debug\parallel.pdb
+C:\Users\Shayan\Documents\Visual Studio 2015\Projects\myBrowserstack\parallel\parallel\bin\Debug\nunit.framework.dll
+C:\Users\Shayan\Documents\Visual Studio 2015\Projects\myBrowserstack\parallel\parallel\bin\Debug\WebDriver.dll
+C:\Users\Shayan\Documents\Visual Studio 2015\Projects\myBrowserstack\parallel\parallel\bin\Debug\WebDriver.Support.dll
+C:\Users\Shayan\Documents\Visual Studio 2015\Projects\myBrowserstack\parallel\parallel\bin\Debug\nunit.framework.xml
+C:\Users\Shayan\Documents\Visual Studio 2015\Projects\myBrowserstack\parallel\parallel\bin\Debug\WebDriver.xml
+C:\Users\Shayan\Documents\Visual Studio 2015\Projects\myBrowserstack\parallel\parallel\bin\Debug\WebDriver.Support.xml
+C:\Users\Shayan\Documents\Visual Studio 2015\Projects\myBrowserstack\parallel\parallel\obj\Debug\parallel.dll
+C:\Users\Shayan\Documents\Visual Studio 2015\Projects\myBrowserstack\parallel\parallel\obj\Debug\parallel.pdb
